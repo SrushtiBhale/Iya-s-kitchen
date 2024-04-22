@@ -103,7 +103,7 @@ p {
 }
 
 .billboard.light{
-    background: url('../img/karaoke00.jpg') no-repeat;   
+    background: url('../img/korean_craft.jpg') no-repeat;   
      
     background-size: cover;
     -webkit-background-size: cover;
@@ -112,7 +112,7 @@ p {
 }
 
 .billboard.dark{
-    background: url('../img/karaoke00.jpg') no-repeat;
+    background: url('../img/korean_craft.jpg') no-repeat;
     
     background-size: cover;
     -webkit-background-size: cover;

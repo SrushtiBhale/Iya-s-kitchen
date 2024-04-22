@@ -116,7 +116,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard.light{
-    background: url('../img/land4.jpg') no-repeat;   
+    background: url('../img/korean_bg.png') no-repeat;   
      
     background-size: cover;
     -webkit-background-size: cover;
@@ -165,7 +165,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard .caption.light h1{
-    color: #fff;
+    color: #000000;
 }
 
 .billboard .caption.dark h1{
@@ -179,7 +179,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard .caption.light p{
-    color: #fff;
+    color: #000000;
 }
 
 .billboard .caption.dark p{
